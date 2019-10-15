@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{UCe2:function(n,e,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/Nosotros",function(){return o("iem/")}])},"iem/":function(n,e,o){"use strict";o.r(e);var t=o("q1tI"),u=o.n(t),i=o("oSTv"),w=u.a.createElement;e.default=function(){return w(i.a,null,w("div",null,w("p",null,"NOSOTROS")))}}},[["UCe2",1,0]]]);
